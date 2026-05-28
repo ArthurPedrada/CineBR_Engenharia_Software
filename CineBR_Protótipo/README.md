@@ -18,9 +18,3 @@ Este é um protótipo funcional de um sistema de venda de ingressos de cinema, d
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 3. Não é necessário servidor backend; toda a lógica de dados é processada no lado do cliente (`Client-side`).
-
-## 🎨 Design
-O projeto segue uma paleta de cores escura com acentos em vermelho neon, proporcionando uma identidade visual moderna e imersiva, ideal para o público cinéfilo.
-
----
-*Protótipo desenvolvido por LuffyBaiano27.*
